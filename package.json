@@ -1,0 +1,7 @@
+{
+  "name": "nw-demo",
+  "main": "index.html",
+  "dependencies": {
+    "pg": "^7.6.1"
+  }
+}
